@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there, I'm Matheus Nunes 👋
 
-<!--
-**matheusnunesismael/matheusnunesismael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm 4th year student taking up Bachelor in Computer Science
 
-Here are some ideas to get you started:
+- 🔭 I am currently an intern at [LCASS][lcass]
+- 🌱 I’m currently learning. Is this.
+- 🎈 I’m a balloon hunter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="MatheusNunes | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="MatheusNunes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MatheusNunes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MatheusNunes | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br/>
+
+---
+
+<img align="left" alt="Matheus Nunes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matheusnunesismael&show_icons=true&hide_border=false" />
+
+[facebook]: https://www.facebook.com/people/Matheus-Nunes-Ismael/100007590015835
+[instagram]: https://www.instagram.com/theusnunis/
+[linkedin]: https://www.linkedin.com/in/matheus-nunes-ismael-82675914b/
+[twitter]: https://twitter.com/mafeusnunes
+[anything]: https://google.com.br
+[lcass]: https://github.com/EpidemiologiaLCAS
+
