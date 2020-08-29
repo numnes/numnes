@@ -3,7 +3,6 @@
 ### I'm 4th year student taking up Bachelor in Computer Science
 
 - 🔭 I am currently an intern at [LCASS][lcass]
-- 🌱 I’m currently learning. Is this.
 - 🎈 I’m a balloon hunter.
 
 ### Connect with me:
