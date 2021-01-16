@@ -10,7 +10,6 @@
 [<img align="left" alt="MatheusNunes | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="MatheusNunes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MatheusNunes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="MatheusNunes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MatheusNunes | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 
@@ -23,7 +22,6 @@
 [facebook]: https://www.facebook.com/people/Matheus-Nunes-Ismael/100007590015835
 [instagram]: https://www.instagram.com/theusnunis/
 [linkedin]: https://www.linkedin.com/in/matheus-nunes-ismael-82675914b/
-[twitter]: https://twitter.com/mafeusnunes
 [medium]: https://medium.com/@nunes.matheus.ismael
 [lcass]: https://github.com/EpidemiologiaLCAS
 [anything]: https://google.com.br
