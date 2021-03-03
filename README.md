@@ -2,7 +2,7 @@
 
 ### I'm 4th year student taking up Bachelor in Computer Science
 
-- 🔭 I am currently an intern at [LCASS][lcass]
+- 🔭 I am currently an intern at [Loupen][loupen]
 - 🎈 Balloon hunter.
 
 ### Connect with me:
@@ -24,4 +24,5 @@
 [linkedin]: https://www.linkedin.com/in/matheus-nunes-ismael-82675914b/
 [medium]: https://medium.com/@nunes.matheus.ismael
 [lcass]: https://github.com/EpidemiologiaLCAS
+[loupen]: https://loupenbrasil.com.br/
 [anything]: https://google.com.br
