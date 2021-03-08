@@ -1,5 +1,9 @@
 ## Hi there, I'm Matheus Nunes 👋
 
+<img src="https://thumbs.gfycat.com/BarrenAnchoredHyrax-max-1mb.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Daniel Boll">
+   <br>
+
+
 ### I'm 4th year student taking up Bachelor in Computer Science
 
 - 🔭 I am currently an intern at [Loupen][loupen]
