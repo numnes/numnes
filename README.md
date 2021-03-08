@@ -1,6 +1,6 @@
 ## Hi there, I'm Matheus Nunes 👋
 
-<img src="https://thumbs.gfycat.com/BarrenAnchoredHyrax-max-1mb.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Daniel Boll">
+<img src="https://media0.giphy.com/media/dYsTmIt6zntHD4pVNl/200.webp?cid=ecf05e478g0yegv2dinoiykccfe3pu0gk4zhptlsj3h3bicz&rid=200.webp" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Daniel Boll">
    <br>
 
 
