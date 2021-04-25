@@ -28,5 +28,5 @@
 [linkedin]: https://www.linkedin.com/in/matheus-nunes-ismael-82675914b/
 [medium]: https://medium.com/@nunes.matheus.ismael
 [lcass]: https://github.com/EpidemiologiaLCAS
-[loupen]: https://loupenbrasil.com.br/
+[loupen]: https://loupen.com.br/
 [anything]: https://google.com.br
