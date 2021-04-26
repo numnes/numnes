@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MatheusNunes | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="MatheusNunes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MatheusNunes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="MatheusNunes | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="MatheusNunes | Facebook" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395649/iconfinder_1_Facebook_colored_svg_copy_5296499_oowhjz.svg" />][facebook]
+[<img align="left" alt="MatheusNunes | LinkedIn" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395763/iconfinder_linkedin_834713_e0wv6o.svg" />][linkedin]
+[<img align="left" alt="MatheusNunes | Instagram" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395834/iconfinder_instagram_1632517_a1pzta.svg" />][instagram]
+[<img align="left" alt="MatheusNunes | Medium" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395546/iconfinder_medium_4961975_xv7gmv.svg" />][medium]
 
 
 <br/>
