@@ -25,7 +25,7 @@
 [<img align="left" alt="React" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1628486511/1174949_js_react_js_logo_react_react_native_icon_gpfnpy.svg" />][reactnative]
 [<img align="left" alt="NestJS" width="30px" src="https://avatars1.githubusercontent.com/u/28507035?s=200&v=4" />][nestjs]
 [<img align="left" alt="NextJS" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1628486360/NextJsLogo_ggwqwx.svg" />][nextjs]
-
+<img align="left" alt="CSS" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1628487458/317756_badge_css_css3_achievement_award_icon_amdu4c.svg" />
 
 <br/>
 
