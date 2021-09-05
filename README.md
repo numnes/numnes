@@ -1,6 +1,6 @@
 ## Hi there, I'm Matheus Nunes 👋
 
-<img src="https://media0.giphy.com/media/dYsTmIt6zntHD4pVNl/200.webp?cid=ecf05e478g0yegv2dinoiykccfe3pu0gk4zhptlsj3h3bicz&rid=200.webp" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="http://31.media.tumblr.com/cf20f1a18a8a9e691e87b9b37d2816a8/tumblr_n29a4oGh2n1qza1qzo1_500.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
    <br>
 
 
