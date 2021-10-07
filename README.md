@@ -34,8 +34,6 @@
 
 
 <p align="center">
-   <img align="left" alt="Daniel Boll's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matheusnunesismael&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-
    <img align="left" alt="Matheus Nunes's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnunesismael&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
