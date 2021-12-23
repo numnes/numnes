@@ -36,6 +36,12 @@
 <p align="center">
    <img align="left" alt="Matheus Nunes's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnunesismael&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
+<br/>
+<br/>
+
+<p align="center">
+   <img width=450 src="https://wakatime.com/share/@matheusnunesismael/78395a0b-7a5b-4d54-bbf6-d1a16cc2857a.svg"/>
+</p>
 
 <br/>
 
