@@ -14,7 +14,7 @@
 [<img align="left" alt="MatheusNunes | Facebook" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395649/iconfinder_1_Facebook_colored_svg_copy_5296499_oowhjz.svg" />][facebook]
 [<img align="left" alt="MatheusNunes | LinkedIn" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395763/iconfinder_linkedin_834713_e0wv6o.svg" />][linkedin]
 [<img align="left" alt="MatheusNunes | Instagram" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395834/iconfinder_instagram_1632517_a1pzta.svg" />][instagram]
-[<img align="left" alt="MatheusNunes | Medium" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395546/iconfinder_medium_4961975_xv7gmv.svg" />][medium]
+<!---[<img align="left" alt="MatheusNunes | Medium" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395546/iconfinder_medium_4961975_xv7gmv.svg" />][medium]-->
 
 <br/>
 
@@ -32,13 +32,25 @@
 
 ---
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=matheusnunesismael&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+---
+
 
 <p align="center">
-   <img align="left" alt="Matheus Nunes's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnunesismael&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+   
+<img align="left" alt="Matheus Nunes's Github Languages" src="https://github-readme-stats.vercel.app/api?username=matheusnunesismael&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+   
+<img align="left" alt="Matheus Nunes's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnunesismael&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+   
 </p>
+<!--- 
 <p align="center">
    <img width=450 src="https://wakatime.com/share/@matheusnunesismael/78395a0b-7a5b-4d54-bbf6-d1a16cc2857a.svg"/>
 </p>
+-->
 
 <br/>
 
