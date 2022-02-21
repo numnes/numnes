@@ -4,9 +4,9 @@
    <br>
 
 
-### I'm 4th year student taking up Bachelor in Computer Science
+### Software developer and Computer Science student
 
-- 🔭 I am currently an intern at [Loupen][loupen]
+- 💻 Fullstack developer at [Loupen][loupen]
 - 🎈 Balloon hunter.
 
 ### Connect with me:
