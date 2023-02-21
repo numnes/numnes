@@ -8,7 +8,7 @@
 
 ### Software developer and Computer Science student
 
-- 💻 Fullstack developer at [Loupen][loupen]
+- 💻 Fullstack developer at [MyPharma][mypharma]
 - 🎈 Balloon hunter.
 
 ### Connect with me:
@@ -60,7 +60,7 @@
 [instagram]: https://www.instagram.com/theusnunis/
 [linkedin]: https://www.linkedin.com/in/matheus-nunes-ismael-82675914b/
 [medium]: https://medium.com/@nunes.matheus.ismael
-[loupen]: https://loupen.com.br/
+[mypharma]: https://www.mypharma.com.br/
 [nestjs]: https://nestjs.com/
 [serverless]: https://www.serverless.com
 [nextjs]: https://nextjs.org
