@@ -8,8 +8,7 @@
 
 ### Software developer and Computer Science student
 
-- 💻 Fullstack developer at [MyPharma][mypharma]
-- 🎈 Balloon hunter.
+- 💻 Fullstack developer at <a href="https://www.mypharma.com.br/" target="_blank" rel="noreferrer">MyPharma</a>
 
 ### Connect with me:
 
