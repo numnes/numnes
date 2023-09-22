@@ -1,19 +1,19 @@
-## Hi there, I'm Matheus Nunes 👋
+## Matheus Nunes Ismael
 
 <img src="http://31.media.tumblr.com/cf20f1a18a8a9e691e87b9b37d2816a8/tumblr_n29a4oGh2n1qza1qzo1_500.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
-   <br>
 
-### Software developer and Computer Science student
+Software developer and Computer Science student
+<br/>
+<br/>
+<br/>
+<img alig src="https://raw.githubusercontent.com/matheusnunesismael/matheusnunesismael/files/github-metrics.svg" />
 
-- 💻 Fullstack developer at <a href="https://www.mypharma.com.br/" target="_blank" rel="noreferrer">MyPharma</a>
 
 ### Connect with me:
 
 [<img align="left" alt="MatheusNunes | Facebook" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395649/iconfinder_1_Facebook_colored_svg_copy_5296499_oowhjz.svg" />][facebook]
 [<img align="left" alt="MatheusNunes | LinkedIn" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395763/iconfinder_linkedin_834713_e0wv6o.svg" />][linkedin]
 [<img align="left" alt="MatheusNunes | Instagram" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395834/iconfinder_instagram_1632517_a1pzta.svg" />][instagram]
-
-<!---[<img align="left" alt="MatheusNunes | Medium" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395546/iconfinder_medium_4961975_xv7gmv.svg" />][medium]-->
 
 <br/>
 
@@ -25,25 +25,17 @@
 [<img align="left" alt="NestJS" width="30px" src="https://avatars1.githubusercontent.com/u/28507035?s=200&v=4" />][nestjs]
 [<img align="left" alt="NestJS" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1629241491/serverless_framework_eudeds.png" />][serverless]
 [<img align="left" alt="NextJS" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1628486360/NextJsLogo_ggwqwx.svg" />][nextjs]
-<img align="left" alt="CSS" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1628487458/317756_badge_css_css3_achievement_award_icon_amdu4c.svg" />
 
 <br/>
 <br/>
+<br/>
 
+<p align="center">
  <a href="https://www.buymeacoffee.com/numnes">
    <img
      src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=numnes&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/>
 </a>
-
----
-
-<p align="center">
-  <img alig src="https://raw.githubusercontent.com/matheusnunesismael/matheusnunesismael/files/github-metrics.svg" />
 </p>
-
----
-
-<br/>
 
 [facebook]: https://www.facebook.com/people/Matheus-Nunes-Ismael/100007590015835
 [instagram]: https://www.instagram.com/theusnunis/
