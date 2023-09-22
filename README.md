@@ -3,9 +3,6 @@
 <img src="http://31.media.tumblr.com/cf20f1a18a8a9e691e87b9b37d2816a8/tumblr_n29a4oGh2n1qza1qzo1_500.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
    <br>
 
-
-
-
 ### Software developer and Computer Science student
 
 - 💻 Fullstack developer at <a href="https://www.mypharma.com.br/" target="_blank" rel="noreferrer">MyPharma</a>
@@ -15,11 +12,12 @@
 [<img align="left" alt="MatheusNunes | Facebook" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395649/iconfinder_1_Facebook_colored_svg_copy_5296499_oowhjz.svg" />][facebook]
 [<img align="left" alt="MatheusNunes | LinkedIn" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395763/iconfinder_linkedin_834713_e0wv6o.svg" />][linkedin]
 [<img align="left" alt="MatheusNunes | Instagram" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395834/iconfinder_instagram_1632517_a1pzta.svg" />][instagram]
+
 <!---[<img align="left" alt="MatheusNunes | Medium" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395546/iconfinder_medium_4961975_xv7gmv.svg" />][medium]-->
 
 <br/>
 
-### Languages and Tools: 
+### Languages and Tools:
 
 [<img align="left" alt="NodeJS" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1628486687/352352_cq7iv8.svg" />][node]
 [<img align="left" alt="React" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1628486511/1174949_js_react_js_logo_react_react_native_icon_gpfnpy.svg" />][react]
@@ -40,24 +38,10 @@
 ---
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=matheusnunesismael&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://raw.githubusercontent.com/matheusnunesismael/matheusnunesismael/files/github-metrics.svg" />
 </p>
 
 ---
-
-
-<p align="center">
-   
-<img align="left" alt="Matheus Nunes's Github Languages" src="https://github-readme-stats.vercel.app/api?username=matheusnunesismael&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-   
-<img align="left" alt="Matheus Nunes's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnunesismael&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-   
-</p>
-<!--- 
-<p align="center">
-   <img width=450 src="https://wakatime.com/share/@matheusnunesismael/78395a0b-7a5b-4d54-bbf6-d1a16cc2857a.svg"/>
-</p>
--->
 
 <br/>
 
