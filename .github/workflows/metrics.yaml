@@ -11,6 +11,7 @@ on:
 jobs:
   stats:
     runs-on: ubuntu-latest
+    timeout-minutes: 7
     steps:
       - uses: lowlighter/metrics@latest
         with:
