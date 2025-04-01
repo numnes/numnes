@@ -39,9 +39,8 @@ Software developer and Computer Science student
 
 [facebook]: https://www.facebook.com/people/Matheus-Nunes-Ismael/100007590015835
 [instagram]: https://www.instagram.com/theusnunis/
-[linkedin]: https://www.linkedin.com/in/matheus-nunes-ismael-82675914b/
+[linkedin]: https://www.linkedin.com/in/numnes/
 [medium]: https://medium.com/@nunes.matheus.ismael
-[mypharma]: https://www.mypharma.com.br/
 [nestjs]: https://nestjs.com/
 [serverless]: https://www.serverless.com
 [nextjs]: https://nextjs.org
