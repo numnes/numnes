@@ -11,7 +11,6 @@ Software developer and Computer Science student
 
 ### Connect with me:
 
-[<img align="left" alt="MatheusNunes | Facebook" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395649/iconfinder_1_Facebook_colored_svg_copy_5296499_oowhjz.svg" />][facebook]
 [<img align="left" alt="MatheusNunes | LinkedIn" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395763/iconfinder_linkedin_834713_e0wv6o.svg" />][linkedin]
 [<img align="left" alt="MatheusNunes | Instagram" width="30px" src="https://res.cloudinary.com/nunes/image/upload/v1619395834/iconfinder_instagram_1632517_a1pzta.svg" />][instagram]
 
@@ -37,7 +36,6 @@ Software developer and Computer Science student
 </a>
 </p>
 
-[facebook]: https://www.facebook.com/people/Matheus-Nunes-Ismael/100007590015835
 [instagram]: https://www.instagram.com/theusnunis/
 [linkedin]: https://www.linkedin.com/in/numnes/
 [medium]: https://medium.com/@nunes.matheus.ismael
